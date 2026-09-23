@@ -590,9 +590,6 @@ importers:
       ms:
         specifier: 2.1.3
         version: 2.1.3
-      nanoid:
-        specifier: 5.1.16
-        version: 5.1.16
       quickjs-wasi:
         specifier: 3.4.0
         version: 3.4.0
